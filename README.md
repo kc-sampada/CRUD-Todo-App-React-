@@ -1,4 +1,4 @@
-LAB 4 — CRUD Todo App (React)
+CRUD Todo App (React)
 
 1. Created a React app where users can add, view, edit and delete todo items.
 2. Used useState to store and update the list of todos.
